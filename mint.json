@@ -48,14 +48,14 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "1. 明确你的文档框架",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "first/framework",
+        "first/code",
+        "first/images",
+        "first/settings",
+        "first/navigation",
+        "first/reusable-snippets"
       ]
     },
     {
