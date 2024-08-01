@@ -25,12 +25,6 @@
     "name": "想联系你",
     "url": "https://goal.ohdragonboi.cn"
   },
-  "tabs": [
-    {
-      "name": "周边内容",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "作者博客，想看吗",
