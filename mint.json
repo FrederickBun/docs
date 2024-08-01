@@ -27,13 +27,13 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "周边内容",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "文档",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
