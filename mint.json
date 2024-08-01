@@ -17,8 +17,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "E-mail",
+      "url": "mailto:seventeen@ohdragonboi.cn"
     }
   ],
   "topbarCtaButton": {
@@ -84,8 +84,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/FrederickAsYou",
+    "github": "https://github.com/FrederickBun"
   }
 }
