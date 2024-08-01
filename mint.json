@@ -33,19 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "文档",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
+      "name": "作者博客，想看吗",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://setbun.com"
     }
   ],
   "navigation": [
