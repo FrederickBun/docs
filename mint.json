@@ -45,11 +45,7 @@
       "group": "明确方向",
       "pages": [
         "first/framework",
-        "first/outline",
-        "first/images",
-        "first/settings",
-        "first/navigation",
-        "first/reusable-snippets"
+        "first/outline"
       ]
     },
     {
